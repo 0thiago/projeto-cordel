@@ -70,7 +70,8 @@ div#imagem1 {
     position: relative;
     background: url(imagens/background001.jpg) right center no-repeat fixed;
     background-size: cover; 
-    height: 71.5vw;    
+    height: 71.5vw; 
+    box-shadow: inset 0px 0px 10px 5px rgba(0, 0, 0, 0.5);   
 
 }
 
@@ -93,6 +94,7 @@ div#imagem2 {
     background-size: cover; 
     height: 71.5vw;  
     text-shadow: 1px 1px rgba(0, 0, 0, 0.458);
+    box-shadow: inset 0px 0px 10px 5px rgba(0, 0, 0, 0.3);
 
 }
 
