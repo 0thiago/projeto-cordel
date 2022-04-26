@@ -32,7 +32,7 @@ header > h1 {
 
 header > p {
     font-family: var(--fonte1);
-    font-size: 2vw;
+    font-size: 1vw;
     padding: 0 0 50px 0;
 
 }
